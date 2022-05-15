@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 00DA-6F2D
+
+ Directory of C:\Users\Lenovo\source\repos\BVN_Bai2
+
+05/15/2022  11:23 PM    <DIR>          .
+05/15/2022  11:15 PM    <DIR>          ..
+05/15/2022  11:23 PM             3,206 Bai2.cpp
+05/15/2022  11:15 PM             1,436 BVN_Bai2.sln
+05/15/2022  11:15 PM             7,190 BVN_Bai2.vcxproj
+05/15/2022  11:15 PM               977 BVN_Bai2.vcxproj.filters
+05/15/2022  11:15 PM               168 BVN_Bai2.vcxproj.user
+05/15/2022  11:17 PM                13 csdl.txt
+05/15/2022  11:24 PM                 0 out.txt
+05/15/2022  11:15 PM    <DIR>          x64
+               7 File(s)         12,990 bytes
+               3 Dir(s)   5,516,419,072 bytes free
